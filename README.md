@@ -1,6 +1,6 @@
 Ce dépôt contient les données de l'article "Uniformisation de corpus anglais annotés en sens" par Loïc Vial, Benjamin Lecouteux et Didier Schwab.
 
-Les ressources fournies sont les suivantes :
+Les ressources fournies sont les suivantes (le dossier **`/data`** correspond au fichier **`/data.zip`** décompressé) :
 
 - **`/data/corpus`**
 
